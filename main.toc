@@ -1,0 +1,11 @@
+\babel@toc {brazil}{}\relax 
+\beamer@sectionintoc {1}{Ensinar exige rigorosidade metódica}{3}{0}{1}
+\beamer@sectionintoc {2}{Ensinar exige pesquisa}{3}{0}{2}
+\beamer@sectionintoc {3}{Ensinar exige respeito aos saberes dos educandos}{3}{0}{3}
+\beamer@sectionintoc {4}{Ensinar exige criticidade}{3}{0}{4}
+\beamer@sectionintoc {5}{Ensinar exige estética e ética}{5}{0}{5}
+\beamer@sectionintoc {6}{Ensinar exige a corporificação das palavras pelo exemplo}{17}{0}{6}
+\beamer@sectionintoc {7}{Ensinar exige risco, aceitação do novo e rejeição a qualquer forma de discriminação}{17}{0}{7}
+\beamer@sectionintoc {8}{Ensinar exige reflexão crítica sobre a prática}{17}{0}{8}
+\beamer@sectionintoc {9}{Ensinar exige o reconhecimento e a assunção da identidade cultural}{17}{0}{9}
+\beamer@sectionintoc {10}{Referências}{17}{0}{10}
